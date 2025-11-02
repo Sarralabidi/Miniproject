@@ -51,7 +51,7 @@ You should see:
 
 Hello, World! This Flask app is containerized.
 
-⚡ GitHub Actions CI/CD
+ GitHub Actions CI/CD
 
 Each push to the repository triggers an automatic pipeline that:
 
